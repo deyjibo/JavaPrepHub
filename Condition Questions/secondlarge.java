@@ -19,5 +19,6 @@ public class secondlarge {
         }
 
         System.out.println("Second Largest = " + second);
+        sc.close();
     }
 }

@@ -27,6 +27,7 @@ public class roots {
             System.out.println("Roots are complex:");
             System.out.println("Root1 = " + realPart + " + " + imaginaryPart + "i");
             System.out.println("Root2 = " + realPart + " - " + imaginaryPart + "i");
-        }       
+        } 
+        sc.close();      
     }
 }

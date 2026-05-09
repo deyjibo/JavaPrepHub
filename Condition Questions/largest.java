@@ -13,5 +13,6 @@ public class largest {
         else{
             System.out.println("2nd no is larger");
         }
+        sc.close();
     }
 }

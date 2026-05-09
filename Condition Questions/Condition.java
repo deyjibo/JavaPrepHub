@@ -10,5 +10,6 @@ public class Condition {
         } else {
             System.out.println("not eligible for vote");
         }
+        sc.close();
     }
 }

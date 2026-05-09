@@ -12,5 +12,6 @@ public class reverseno {
             number=number/10;
         }
         System.out.println(rev);
+        sc.close();
     }
 }

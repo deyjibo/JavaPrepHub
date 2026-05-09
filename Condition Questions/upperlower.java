@@ -20,6 +20,6 @@ public class upperlower {
         // } else {
         //     System.out.println("Not an alphabet");
         // }
-
+        sc.close();
     }
 }

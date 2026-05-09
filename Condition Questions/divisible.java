@@ -12,5 +12,6 @@ public class divisible {
         }else{
             System.out.println("not divisible by 5 & 11");
         }
+        sc.close();
     }
 }

@@ -15,5 +15,6 @@ public class vowelconso {
         }else{
             System.out.println("its not an alphabet");
         }
+        sc.close();
     }
 }
