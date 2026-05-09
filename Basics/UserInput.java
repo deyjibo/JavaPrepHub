@@ -8,6 +8,6 @@ public class UserInput {
         int age=sc.nextInt();
         System.out.print("NAme:"+name);
         System.out.print("my age is:"+age);
-
+        sc.close();
     }
 }
